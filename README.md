@@ -1,6 +1,6 @@
 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋
 
-Welcome to my GitHub profile! I'm Aryan Maurya, a passionate DevOps Engineer with a strong foundation in cloud technologies, automation, and infrastructure management.
+𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑚𝑦 𝐺𝑖𝑡𝐻𝑢𝑏 𝑝𝑟𝑜𝑓𝑖𝑙𝑒! 𝐼'𝑚 𝐴𝑟𝑦𝑎𝑛 𝑀𝑎𝑢𝑟𝑦𝑎, 𝑎 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝐷𝑒𝑣𝑂𝑝𝑠 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝑤𝑖𝑡ℎ 𝑎 𝑠𝑡𝑟𝑜𝑛𝑔 𝑓𝑜𝑢𝑛𝑑𝑎𝑡𝑖𝑜𝑛 𝑖𝑛 𝑐𝑙𝑜𝑢𝑑 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠, 𝑎𝑢𝑡𝑜𝑚𝑎𝑡𝑖𝑜𝑛, 𝑎𝑛𝑑 𝑖𝑛𝑓𝑟𝑎𝑠𝑡𝑟𝑢𝑐𝑡𝑢𝑟𝑒 𝑚𝑎𝑛𝑎𝑔𝑒𝑚𝑒𝑛𝑡.
 
 🔭 I’m currently working on 𝒄𝒖𝒕𝒕𝒊𝒏𝒈-𝒆𝒅𝒈𝒆 𝑫𝒆𝒗𝑶𝒑𝒔 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 involving Azure Cloud, Terraform, and Kubernetes to streamline infrastructure as code and optimize deployment pipelines.
 
