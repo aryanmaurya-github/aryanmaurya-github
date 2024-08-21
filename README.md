@@ -12,9 +12,10 @@ Welcome to my GitHub profile! I'm Aryan Maurya, a passionate DevOps Engineer wit
 
 💬 Ask me about Terraform modules, Azure services, and automation best practices—I love sharing knowledge and learning from others!
 
-📫 How to reach me: You can connect with me on LinkedIn or drop me an email at aryanmaurya@example.com.
+📫 How to reach me: You can connect with me on LinkedIn or drop me an email at aryanmaurya.net@outlook.com.
 
 ⚡ Fun fact: I’m a huge fan of open-source contributions and enjoy exploring new DevOps tools in my spare time.
+
 
 
 Let's connect, collaborate, and innovate together!
