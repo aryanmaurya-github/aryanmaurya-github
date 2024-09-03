@@ -1,0 +1,6 @@
+resource "azurerm_public_ip" "pip" {
+  name                = "todo-pip"
+  resource_group_name = "todo-rg"
+  location            = "central us"
+  allocation_method   = "Static"
+}
