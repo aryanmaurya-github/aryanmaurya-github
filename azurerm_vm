@@ -1,0 +1,22 @@
+resource "azurerm_linux_virtual_machine" "vm" {
+  name                            = "todo-vm"
+  location                        = "central us"
+  resource_group_name             = "todo-rg"
+  size                            = "Standard_F2"
+  admin_username                  = "Azureadmin"
+  admin_password                  = "Pass@word@123"
+  disable_password_authentication = false
+  network_interface_ids           = [azurerm_network_interface.nic.id]
+
+  os_disk {
+    caching              = "ReadWrite"
+    storage_account_type = "Standard_LRS"
+  }
+
+  source_image_reference {
+    publisher = "canonical"
+    offer     = "0001-con-ubuntu-server-jammy"
+    sku       = "22_04-Its"
+    version   = "latest"
+  }
+}
